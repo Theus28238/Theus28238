@@ -1,49 +1,44 @@
-# 👨‍💻 Matheus Guilherme
+## Olá 👋 ! Eu me chamo Matheus Guilherme.
 
-**`Desenvolvedor Back-end | Java | Spring Boot`**
+- 🌱 Estou estudando Java (Juntamente com as ferramentas) || Cursando ADS(Análise de Desenvolvimento de Sistemas)
+- 👯 Pretendo trabalhar em Back-end
+- 📫 Email: matheusestudos2052035@gmail.com || Telefone: 86995309474 || Instagram: @thwusnt
+- 😄 Pronomes: ele/dele
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; padding: 20px;">
+  
+  <a href="https://github.com/pDiazz-dev" target="_blank" style="text-decoration: none;">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=pDiazz-dev&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=pt-br"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=pDiazz-dev&show_icons=true&hide_border=true&bg_color=00000000&locale=pt-br"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=pDiazz-dev&show_icons=true&hide_border=true&bg_color=00000000&locale=pt-br" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
+    </picture>
+  </a>
 
-Me chamo Matheus Guilherme, tenho 18 anos e sou de Teresina - Piauí. Concluí o ensino médio no colégio CPI e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau.
+  <a href="https://github.com/pDiazz-dev" target="_blank" style="text-decoration: none;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=pDiazz-dev&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=00000000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
+  </a>
+  
+  <h2 align="center">⚡ Tecnologias que eu utilizo</h2>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+</p>
 
-### 🧰 Tecnologias e Ferramentas:
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot" 
-    width="40px" 
-    padding-left="80px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+</div>
 
-<br/><br/>
 
----
-
-### 📊 Estatísticas do GitHub:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theus28238&hide=contribs,prs&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theus28238&hide_progress=true&theme=radical)
-
----
-
-### 📬 Onde me encontrar:
-
-- ✉️ Email: matheusguilherme1520@gmail.com
-- 💼 LinkedIn: *www.linkedin.com/in/matheus-guilherme-a73988370/*
+<div> 
+  <a href="https://www.instagram.com/thwusnt?igsh=MTkzOXdjeG1jN2Y3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-guilherme-a73988370/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
