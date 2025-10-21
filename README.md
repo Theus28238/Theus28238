@@ -9,18 +9,18 @@
   <a href="https://github.com/pDiazz-dev" target="_blank" style="text-decoration: none;">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=pDiazz-dev&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=pt-br"
+        srcset="https://github-readme-stats.vercel.app/api?username=Theus28238&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=pt-br"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=pDiazz-dev&show_icons=true&hide_border=true&bg_color=00000000&locale=pt-br"
+        srcset="https://github-readme-stats.vercel.app/api?username=Theus28238&show_icons=true&hide_border=true&bg_color=00000000&locale=pt-br"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img height="200" src="https://github-readme-stats.vercel.app/api?username=pDiazz-dev&show_icons=true&hide_border=true&bg_color=00000000&locale=pt-br" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
     </picture>
   </a>
 
-  <a href="https://github.com/pDiazz-dev" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/Theus28238" target="_blank" style="text-decoration: none;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=pDiazz-dev&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=00000000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
   </a>
   
