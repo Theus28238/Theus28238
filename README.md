@@ -21,7 +21,7 @@
   </a>
 
   <a href="https://github.com/Theus28238" target="_blank" style="text-decoration: none;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=pDiazz-dev&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=00000000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theus28238&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=00000000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
   </a>
   
   <h2 align="center">⚡ Tecnologias que eu utilizo</h2>
