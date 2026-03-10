@@ -1,44 +1,72 @@
-## Olá 👋 ! Eu me chamo Matheus Guilherme.
-
-- 🌱 Estou estudando Java (Juntamente com as ferramentas) || Cursando ADS(Análise de Desenvolvimento de Sistemas)
-- 👯 Pretendo trabalhar em Back-end
-- 📫 Email: matheusestudos2052035@gmail.com || Telefone: 86995309474 || Instagram: @thwusnt
-- 😄 Pronomes: ele/dele
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; padding: 20px;">
-  
-  <a href="https://github.com/pDiazz-dev" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Theus28238&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=pt-br"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Theus28238&show_icons=true&hide_border=true&bg_color=00000000&locale=pt-br"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=Theus28238v&show_icons=true&hide_border=true&bg_color=00000000&locale=pt-br" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
-    </picture>
-  </a>
-
-  <a href="https://github.com/Theus28238" target="_blank" style="text-decoration: none;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theus28238&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=00000000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
-  </a>
-  
-  <h2 align="center">⚡ Tecnologias que eu utilizo</h2>
+<h1 align="center">Matheus Oliveira</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=5383EC&size=32&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Design+Enthusiast;Java+%7C+Spring+Boot+%7C+Next.js;Design+to+Code+Specialist" />
 </p>
 
+<p align="center">
+Transformando protótipos de alta fidelidade em aplicações escaláveis e performáticas.
+</p>
 
-</div>
+---
 
+## Sobre
 
-<div> 
-  <a href="https://www.instagram.com/thwusnt?igsh=MTkzOXdjeG1jN2Y3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-guilherme-a73988370/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+Desenvolvedor focado na interseção entre engenharia de software e design de interface.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em arquitetura de software e desenvolvimento back-end, mantendo atenção especial à qualidade visual das interfaces.
+
+Experiência em transformar protótipos de **Figma** em aplicações reais utilizando **Next.js e TypeScript**, além do desenvolvimento de **APIs estruturadas com Java e Spring Boot**.
+
+Ambiente de desenvolvimento baseado em **Linux**, priorizando produtividade e automação.
+
+---
+
+## Stack
+
+### Interface
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,figma,html,css" />
+</p>
+
+### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea" />
+</p>
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Theus28238&show_icons=true&theme=transparent&hide_border=true"/>
   
-</div>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Theus28238&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>
+</p>
+
+## Contato
+
+<p align="center">
+<a href="https://www.linkedin.com/in/matheus-guilherme-a73988370/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:matheusestudos2052035@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/thwusnt">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+"The code is the canvas, the logic is the art."
+</p>
