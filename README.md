@@ -6,8 +6,6 @@ e Next.js no front-end, Java e Spring Boot no back-end, e prototipo no Figma
 
 ---
 
----
-
 ## Stack
 
 **Front-End** — React · TypeScript · Next.js · Tailwind CSS  
